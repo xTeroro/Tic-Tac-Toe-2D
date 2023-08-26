@@ -1,1 +1,9 @@
-int i_hate_nig;
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+
+    return 0;
+}
