@@ -1,11 +1,12 @@
 #include <fstream>
 #include <iostream>
+#include <string>
+#include <vector>
 
 using namespace std;
 
 int main()
 {
-    cout<<"i hate nig";
-    int i_hate_nig;
+    cout<<"ye";
     return 0;
 }
